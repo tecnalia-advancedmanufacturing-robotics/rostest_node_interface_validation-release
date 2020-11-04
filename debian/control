@@ -1,0 +1,12 @@
+Source: ros-melodic-rostest-node-interface-validation
+Section: misc
+Priority: optional
+Maintainer: Anthony Remazeilles <anthony.remazeilles@tecnalia.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-roslint, ros-melodic-rospy, ros-melodic-rospy-message-converter, ros-melodic-rosservice, ros-melodic-rostest, ros-melodic-rostopic, ros-melodic-std-srvs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-rostest-node-interface-validation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-rospy, ros-melodic-rospy-message-converter, ros-melodic-rosservice, ros-melodic-rostopic
+Description: Additiional testing tools at node level
