@@ -1,0 +1,22 @@
+ros-melodic-rostest-node-interface-validation (0.2.0-1bionic) bionic; urgency=high
+
+  * update package name
+  * Contributors: Anthony Remazeilles
+
+ -- Anthony Remazeilles <anthony.remazeilles@tecnalia.com>  Tue, 03 Nov 2020 23:00:00 -0000
+
+ros-melodic-rostest-node-interface-validation (0.1.0-1bionic) bionic; urgency=high
+
+  * change package name
+  * Contributors: Anthony Remazeilles
+
+ -- Anthony Remazeilles <anthony.remazeilles@tecnalia.com>  Thu, 15 Oct 2020 22:00:00 -0000
+
+ros-melodic-rostest-node-interface-validation (0.0.1-1bionic) bionic; urgency=high
+
+  * First version stored
+  * Contributors: Anthony Remazeilles
+
+ -- Anthony Remazeilles <anthony.remazeilles@tecnalia.com>  Tue, 13 Oct 2020 22:00:00 -0000
+
+
